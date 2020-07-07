@@ -35,7 +35,7 @@ def medium(g,one2twenty):
         print ("the number is: "+str(one2twenty))
         print ("Refresh to play again")
       else: 
-        chances = str(4-len(g))//
+        chances = str(4-len(g))
         print ("you have "+chances+" chance(s) left")
         print ("My number is between 1-20 inclusive, enter your guess below: ")
       try:
